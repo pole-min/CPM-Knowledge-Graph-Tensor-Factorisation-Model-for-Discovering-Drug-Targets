@@ -1,0 +1,4 @@
+produce	0
+binding	1
+effect	2
+interaction	3

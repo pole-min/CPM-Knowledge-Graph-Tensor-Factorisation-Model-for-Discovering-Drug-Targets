@@ -1,0 +1,7 @@
+annotates	annotates
+associated_with	associated with
+disease_mapped_to_gene	disease mapped to gene
+interacts_with	interacts with
+pathway_has_gene_element	pathway has gene element
+targets	targets
+treats	treats

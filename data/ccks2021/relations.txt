@@ -1,0 +1,7 @@
+annotates
+associated_with
+disease_mapped_to_gene
+interacts_with
+pathway_has_gene_element
+targets
+treats
